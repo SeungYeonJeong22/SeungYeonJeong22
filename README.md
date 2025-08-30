@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://img.shields.io/badge/python-E34F26?style=flat-square&logo=python&logoColor=white"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,git,mysql,fastapi" />
+  </a>
+</p>
