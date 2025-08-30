@@ -13,17 +13,27 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+들어갈 내용 정리:
+
+- 추구하고 싶은 개발 가치관
+- 이상적인 목표
+- 나에 대한 설명
+프로젝트
+히스토리
+개발 관련 내용들
 -->
 
+### 💬 Exploring How AI Can Bring Light to Human Emotions..
 
-<!--
-## Tech Stack:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,git,aws,mysql,fastapi" />
-  </a>
-</p>
-!-->
+I am an AI researcher and developer 👩‍💻 driven by the vision of creating artificial intelligence that can understand human emotions 🥰 — not just to analyze them, but to comfort 🤗, encourage 🌈, and inspire 💡.
+
+My ultimate goal is to design empathetic AI systems that bring positive influence to the world 🌍, making technology a source of healing 🌱 and joy 😄 rather than distance.
+
+With strong communication skills 🗣️ and a deep appreciation for well-structured processes 🧩, I thrive on bridging ideas into actionable solutions 🔗.  
+
+At the same time, I enjoy exploring diverse and creative experiments 💻, constantly seeking innovative ways to combine technical rigor with human-centered impact ❤️.
+
 
 ### ✨ Tech Stack ✨
 
