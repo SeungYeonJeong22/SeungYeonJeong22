@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
+
+## Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,git,mysql,fastapi" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,git,aws,mysql,fastapi" />
   </a>
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
