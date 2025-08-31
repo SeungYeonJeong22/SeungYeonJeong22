@@ -64,12 +64,10 @@ Here is my
 
 ### 📜 Histories
 
-- 2024.12-2025.08 — AI Engineer, Delight Corp. \
-│  
-- 2023.09-2025.08 — Master’s Course in AI, Chung-Ang University\
-│  
-- 2022.09-2023.02 — Completed Naver Boostcamp AI Tech 4th Course\
-│  
-- 2022.01-2022.06 — Completed BigData Analysis Education Program\
-│ 
-- 2015.03-2022.02 - B.S. in Computer Science, MyongJi University\
+| Period | Activity |
+|--------|----------|
+| 2024.12–2025.08 | AI Engineer, Delight Corp. |
+| 2023.09–2025.08 | Master’s Course in AI, Chung-Ang University |
+| 2022.09–2023.02 | Completed Naver Boostcamp AI Tech 4th Course |
+| 2022.01–2022.06 | Completed Big Data Analysis Education Program |
+| 2015.03–2022.02 | B.S. in Computer Science, MyongJi University |
