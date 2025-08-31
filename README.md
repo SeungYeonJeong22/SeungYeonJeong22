@@ -58,5 +58,12 @@ Here is my
 - AI Class: Enhancing Remote Learning Quality through Live Emotion Recognition
 
 
-### 🔽 My Histories
-- 
+### 📜 Histories  
+
+- 🔵 2025 — Research on Emotion Recognition AI  
+  │  
+- 🔵 2024 — Built Efficient-TCNs for Time Series Forecasting  
+  │  
+- 🔵 2023 — Skin Classification Project (Detection & Analysis)  
+  │  
+- 🔵 2022 — AI Class: Live Emotion Recognition for Remote Learning
