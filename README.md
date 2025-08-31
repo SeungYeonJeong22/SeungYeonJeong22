@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### 💬 Exploring How AI Can Bring Light to Human Emotions..
 
-I am an AI researcher and developer 👩‍💻 driven by the vision of creating artificial intelligence that can understand human emotions 😄 — not just to analyze them, but to comfort 🤗, encourage 🌈, and inspire 💡.
+I am an AI researcher and developer driven by the vision of creating artificial intelligence that can understand human emotions 😄 — not just to analyze them, but to comfort 🤗, encourage 🌈, and inspire 💡.
 
 My ultimate goal is to design empathetic AI systems that bring positive influence to the world 🌍, making technology a source of healing 🌱 and joy 😄 rather than distance.
 
@@ -34,8 +34,10 @@ With strong communication skills 🗣️ and a deep appreciation for well-struct
 
 At the same time, I enjoy exploring diverse and creative experiments 💻, constantly seeking innovative ways to combine technical rigor with human-centered impact ❤️.
 
+Here is my resume [!https://rattle-stocking-627.notion.site/Seungyeon-Jeong-1362cfcb8a7e8014bc41f18c9ee5876e?source=copy_link]
 
-### ✨ Tech Stack ✨
+
+### ✨ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -44,15 +46,14 @@ At the same time, I enjoy exploring diverse and creative experiments 💻, const
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<!--
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          </div>
-    </div><br>
-<div align= "center">
-!-->
+
+### 📑 Projects
+
+- TLAB: Robust Continuous Emotion Recognition using Audio-Visual Multimodality under Noisy Conditions
+- Efficient-TCNs: Time Series Forecasting Research
+- Skin Classification Process: Skin Check → Face Masking → Lesion Detection → Lesion Classification
+- AI Class: Enhancing Remote Learning Quality through Live Emotion Recognition
+
+
+### 🔽 My Histories
+- 
