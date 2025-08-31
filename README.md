@@ -57,18 +57,18 @@ Here is my
 
 ### 📑 Projects
 
-- TLAB: Robust Continuous Emotion Recognition using Audio-Visual Multimodality under Noisy Conditions  
-- Efficient-TCNs: Time Series Forecasting Research  
-- Skin Classification Process: Skin Check → Face Masking → Lesion Detection → Lesion Classification  
-- AI Class: Enhancing Remote Learning Quality through Live Emotion Recognition  
-- Music Recommendation Serving (Naver Boostcamp AI Tech 4th)  
-- Movie Recommendation (Naver Boostcamp AI Tech 4th)  
-- Deep Knowledge Tracing (Naver Boostcamp AI Tech 4th)  
-- Book Rating Prediction (Naver Boostcamp AI Tech 4th)  
-- Predicting Startup Growth — AI Competition (Dacon)  
-- Lotte Members Big Data Competition (Lotte)  
-- E-commerce Analysis (BigData Anaylsis Program) 
-- YouTube Keyword Analysis (BigData Anaylsis Program) 
+- **TLAB**: Robust Continuous Emotion Recognition using Audio-Visual Multimodality under Noisy Conditions  
+- **Efficient-TCNs**: Time Series Forecasting Research  
+- **Skin Classification Process**: Skin Check → Face Masking → Lesion Detection → Lesion Classification  
+- **AI Class**: Enhancing Remote Learning Quality through Live Emotion Recognition  
+- **Music Recommendation Serving**: Naver Boostcamp AI Tech 4th Final AI Serving Project
+- **Movie Recommendation**: Naver Boostcamp AI Tech 4th Competition 3rd
+- **Deep Knowledge Tracing**: Naver Boostcamp AI Tech 4th Competition 2nd
+- **Book Rating Prediction**: Naver Boostcamp AI Tech 4th Competition 1st
+- **Predicting Startup Growth** — AI Competition (Dacon)  
+- **Lotte Members Big Data Competition** Lotte Bigdata Analysis Competition
+- **E-commerce Analysis**: BigData Anaylsis Program for Global E-commerce Analysis
+- **YouTube Keyword Analysis**: First BigData Anaylsis Program using Ko-BERT
 
 <hr>
 
