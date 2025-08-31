@@ -64,7 +64,7 @@ Here is my
 
 ### 📜 Histories
 
-⏺ 2024.12-2025.08 — AI Engineer, Delight Corp. \
+⃝ 2024.12-2025.08 — AI Engineer, Delight Corp. \
 │  \
 ⏺ 2023.09-2025.08 — Master’s Course in AI, Chung-Ang University\
 │  \
