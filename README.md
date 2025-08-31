@@ -34,7 +34,10 @@ With strong communication skills 🗣️ and a deep appreciation for well-struct
 
 At the same time, I enjoy exploring diverse and creative experiments 💻, constantly seeking innovative ways to combine technical rigor with human-centered impact ❤️.
 
-Here is my [RESUME](https://rattle-stocking-627.notion.site/Seungyeon-Jeong-1362cfcb8a7e8014bc41f18c9ee5876e?source=copy_link)
+Here is my 
+- [RESUME](https://rattle-stocking-627.notion.site/Seungyeon-Jeong-1362cfcb8a7e8014bc41f18c9ee5876e?source=copy_link)
+- [PORTFOLIO}(./포트폴리오ver2_정승연_20250830.pdf)
+
 
 
 ### ✨ Tech Stack
