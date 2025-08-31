@@ -38,8 +38,6 @@ Here is my
 - [RESUME](https://rattle-stocking-627.notion.site/Seungyeon-Jeong-1362cfcb8a7e8014bc41f18c9ee5876e?source=copy_link)
 - [PORTFOLIO](./포트폴리오ver2_정승연_20250830.pdf)
 
-
-
 ### ✨ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -52,11 +50,18 @@ Here is my
 
 ### 📑 Projects
 
-- TLAB: Robust Continuous Emotion Recognition using Audio-Visual Multimodality under Noisy Conditions
-- Efficient-TCNs: Time Series Forecasting Research
-- Skin Classification Process: Skin Check → Face Masking → Lesion Detection → Lesion Classification
-- AI Class: Enhancing Remote Learning Quality through Live Emotion Recognition
-
+- TLAB: Robust Continuous Emotion Recognition using Audio-Visual Multimodality under Noisy Conditions  
+- Efficient-TCNs: Time Series Forecasting Research  
+- Skin Classification Process: Skin Check → Face Masking → Lesion Detection → Lesion Classification  
+- AI Class: Enhancing Remote Learning Quality through Live Emotion Recognition  
+- Music Recommendation Serving (Naver Boostcamp AI Tech 4th)  
+- Movie Recommendation (Naver Boostcamp AI Tech 4th)  
+- Deep Knowledge Tracing (Naver Boostcamp AI Tech 4th)  
+- Book Rating Prediction (Naver Boostcamp AI Tech 4th)  
+- Predicting Startup Growth — AI Competition (Dacon)  
+- Lotte Members Big Data Competition (Lotte)  
+- E-commerce Analysis (BigData Anaylsis Program) 
+- YouTube Keyword Analysis (BigData Anaylsis Program) 
 
 ### Publications
 - Robust Audio-Visual Fusion for Emotion Recognition Based on Cross-Modal Learning under Noisy Conditions - 2025 CMC-Computers & Materials Continua [Paper-Accepted and Wait Publication]() [Code](https://github.com/SeungYeonJeong22/TLAB-TCN-LSTM-Fusion-For-Robust-Multimodal-Emotion-Recongition-under-Noisy-Conditions.git)
