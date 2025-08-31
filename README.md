@@ -58,12 +58,18 @@ Here is my
 - AI Class: Enhancing Remote Learning Quality through Live Emotion Recognition
 
 
-### 📜 Histories  
+### Publications
+- 
 
-- 🔵 2025 — Research on Emotion Recognition AI  
-  │  
-- 🔵 2024 — Built Efficient-TCNs for Time Series Forecasting  
-  │  
-- 🔵 2023 — Skin Classification Project (Detection & Analysis)  
-  │  
-- 🔵 2022 — AI Class: Live Emotion Recognition for Remote Learning
+
+### 📜 Histories
+
+⏺ 2024.12-2025.08 — AI Engineer, Delight Corp.
+│  
+⏺ 2023.09-2025.08 — Master’s Course in AI, Chung-Ang University
+│  
+⏺ 2022.09-2023.02 — Completed Naver Boostcamp AI Tech 4th Course
+│  
+⏺ 2022.01-2022.06 — Completed BigData Analysis Education Program
+│ 
+⏺ 2015.03-2022.02 - B.S. in Computer Science, MyongJi University
