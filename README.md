@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 
 I am an AI researcher and developer driven by the vision of creating artificial intelligence that can understand human emotions 😄 — not just to analyze them, but to comfort 🤗, encourage 🌈, and inspire 💡.
 
-My ultimate goal is to design empathetic AI systems that bring positive influence to the world 🌍, making technology a source of healing 🌱 and joy 😄 rather than distance.
+My ultimate goal is to design empathetic AI systems that bring positive influence to the world, making technology a source of healing 🌱 and joy 😄 rather than distance.
 
-With strong communication skills 🗣️ and a deep appreciation for well-structured processes 🧩, I thrive on bridging ideas into actionable solutions 🔗.  
+With strong communication skills 🗣️ and a deep appreciation for well-structured processes, I thrive on bridging ideas into actionable solutions.  
 
-At the same time, I enjoy exploring diverse and creative experiments 💻, constantly seeking innovative ways to combine technical rigor with human-centered impact ❤️.
+At the same time, I enjoy exploring diverse and creative experiments, constantly seeking innovative ways to combine technical rigor with human-centered impact ❤️.
 
 Here is my 
 - [RESUME](https://rattle-stocking-627.notion.site/Seungyeon-Jeong-1362cfcb8a7e8014bc41f18c9ee5876e?source=copy_link)
