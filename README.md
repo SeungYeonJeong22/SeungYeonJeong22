@@ -62,9 +62,9 @@ Here is my
 - **Skin Classification Process**: Skin Check → Face Masking → Lesion Detection → Lesion Classification → Develop FastAPI → AWS Deploy
 - **AI Class**: Enhancing Remote Learning Quality through Live Emotion Recognition  
 - **Music Recommendation Serving**: Naver Boostcamp AI Tech 4th Final AI Serving Project
-- **Movie Recommendation**: Naver Boostcamp AI Tech 4th Competition 3rd
-- **Deep Knowledge Tracing**: Naver Boostcamp AI Tech 4th Competition 2nd
-- **Book Rating Prediction**: Naver Boostcamp AI Tech 4th Competition 1st
+- **Movie Recommendation**: Naver Boostcamp AI Tech 4th 3rd Competition
+- **Deep Knowledge Tracing**: Naver Boostcamp AI Tech 4th 2nd Competition
+- **Book Rating Prediction**: Naver Boostcamp AI Tech 4th 1st Competition
 - **Predicting Startup Growth**: AI Competition (Dacon)  
 - **Lotte Members Big Data Competition**: Lotte Bigdata Analysis Competition
 - **E-commerce Analysis**: BigData Anaylsis Program for Global E-commerce Analysis
