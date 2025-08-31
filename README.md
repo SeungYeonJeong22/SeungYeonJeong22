@@ -59,7 +59,7 @@ Here is my
 
 - **TLAB**: Robust Continuous Emotion Recognition using Audio-Visual Multimodality under Noisy Conditions  
 - **Efficient-TCNs**: Time Series Forecasting Research  
-- **Skin Classification Process**: Skin Check → Face Masking → Lesion Detection → Lesion Classification  
+- **Skin Classification Process**: Skin Check → Face Masking → Lesion Detection → Lesion Classification → Develop FastAPI → AWS Deploy
 - **AI Class**: Enhancing Remote Learning Quality through Live Emotion Recognition  
 - **Music Recommendation Serving**: Naver Boostcamp AI Tech 4th Final AI Serving Project
 - **Movie Recommendation**: Naver Boostcamp AI Tech 4th Competition 3rd
