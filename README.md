@@ -38,6 +38,8 @@ Here is my
 - [RESUME](https://rattle-stocking-627.notion.site/Seungyeon-Jeong-1362cfcb8a7e8014bc41f18c9ee5876e?source=copy_link)
 - [PORTFOLIO](./포트폴리오ver2_정승연_20250830.pdf)
 
+<hr>
+
 ### ✨ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -47,6 +49,7 @@ Here is my
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+<hr>
 
 ### 📑 Projects
 
@@ -63,14 +66,18 @@ Here is my
 - E-commerce Analysis (BigData Anaylsis Program) 
 - YouTube Keyword Analysis (BigData Anaylsis Program) 
 
+<hr>
+
 ### Publications
 - Robust Audio-Visual Fusion for Emotion Recognition Based on Cross-Modal Learning under Noisy Conditions - 2025 CMC-Computers & Materials Continua [Paper-Accepted and Wait Publication]() [Code](https://github.com/SeungYeonJeong22/TLAB-TCN-LSTM-Fusion-For-Robust-Multimodal-Emotion-Recongition-under-Noisy-Conditions.git)
 - A Crux on Audio-Visual Emotion Recognition in the Wild with Fusion Methods - 2025 ICCE [Paper](https://ieeexplore.ieee.org/document/10930176)
 
+<hr>
+
 ### 📜 Histories
 
 - **2024.12–2025.08** — AI Engineer, Delight Corp.  
-- **2023.09–2025.08** — Master’s Course in AI, Chung-Ang University  
+- **2023.09–2025.08** — Master’s Degree in AI, Chung-Ang University  
 - **2022.09–2023.02** — Completed Naver Boostcamp AI Tech 4th Course  
 - **2022.01–2022.06** — Completed Big Data Analysis Education Program  
 - **2015.03–2022.02** — B.S. in Computer Science, MyongJi University  
