@@ -65,8 +65,8 @@ Here is my
 - **Movie Recommendation**: Naver Boostcamp AI Tech 4th Competition 3rd
 - **Deep Knowledge Tracing**: Naver Boostcamp AI Tech 4th Competition 2nd
 - **Book Rating Prediction**: Naver Boostcamp AI Tech 4th Competition 1st
-- **Predicting Startup Growth** — AI Competition (Dacon)  
-- **Lotte Members Big Data Competition** Lotte Bigdata Analysis Competition
+- **Predicting Startup Growth**: AI Competition (Dacon)  
+- **Lotte Members Big Data Competition**: Lotte Bigdata Analysis Competition
 - **E-commerce Analysis**: BigData Anaylsis Program for Global E-commerce Analysis
 - **YouTube Keyword Analysis**: First BigData Anaylsis Program using Ko-BERT
 
