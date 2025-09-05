@@ -73,7 +73,7 @@ Here is my
 <hr>
 
 ### 🧾 Publications
-- Robust Audio-Visual Fusion for Emotion Recognition Based on Cross-Modal Learning under Noisy Conditions - 2025 CMC-Computers & Materials Continua [Paper-Accepted and Wait Publication]() [Code](https://github.com/SeungYeonJeong22/TLAB-TCN-LSTM-Fusion-For-Robust-Multimodal-Emotion-Recongition-under-Noisy-Conditions.git)
+- Robust Audio-Visual Fusion for Emotion Recognition Based on Cross-Modal Learning under Noisy Conditions - 2025 CMC-Computers & Materials Continua [Paper](http://www.techscience.com/cmc/online/detail/24163) [Code](https://github.com/SeungYeonJeong22/TLAB-TCN-LSTM-Fusion-For-Robust-Multimodal-Emotion-Recongition-under-Noisy-Conditions.git)
 - A Crux on Audio-Visual Emotion Recognition in the Wild with Fusion Methods - 2025 ICCE [Paper](https://ieeexplore.ieee.org/document/10930176)
 
 <hr>
