@@ -80,7 +80,8 @@ Here is my
 
 ### 📜 Histories
 
-- **2026.01–Now** — AI Researcher, Seoul National University Hospital
+- **2026.08-NOW** - Post Master's Researcher in Electronics and Telecommunications Research Institute(ETRI)
+- **2026.01–2026.07** — AI Researcher, Seoul National University Hospital
 - **2024.12–2025.08** — AI Engineer, Delight Corp.  
 - **2023.09–2025.08** — Master’s Degree in AI, Chung-Ang University  
 - **2022.09–2023.02** — Completed Naver Boostcamp AI Tech 4th Course  
